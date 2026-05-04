@@ -8,7 +8,7 @@ In the repository, you can find all the materials of the project - the code, the
 
 The module is currently under development, so all comments and questions are very welcome!
 
-Also, the module has not yet been published as a Python library, but you can use with
+Also, the module has not yet been published as a Python library, but you can use it with
 
 ```
 !git clone https://github.com/IrinaPolitova/UDTheoretizer
